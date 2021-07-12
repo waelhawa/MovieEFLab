@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GC-Class\\MovieEFLab\\MovieEFLab\\MovieEFLab\\MovieEFLab.csproj": {}
+    "F:\\GrandCircus\\C#\\MovieEFLab\\MovieEFLab\\MovieEFLab\\MovieEFLab.csproj": {}
   },
   "projects": {
-    "C:\\GC-Class\\MovieEFLab\\MovieEFLab\\MovieEFLab\\MovieEFLab.csproj": {
+    "F:\\GrandCircus\\C#\\MovieEFLab\\MovieEFLab\\MovieEFLab\\MovieEFLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GC-Class\\MovieEFLab\\MovieEFLab\\MovieEFLab\\MovieEFLab.csproj",
+        "projectUniqueName": "F:\\GrandCircus\\C#\\MovieEFLab\\MovieEFLab\\MovieEFLab\\MovieEFLab.csproj",
         "projectName": "MovieEFLab",
-        "projectPath": "C:\\GC-Class\\MovieEFLab\\MovieEFLab\\MovieEFLab\\MovieEFLab.csproj",
-        "packagesPath": "C:\\Users\\waelh\\.nuget\\packages\\",
-        "outputPath": "C:\\GC-Class\\MovieEFLab\\MovieEFLab\\MovieEFLab\\obj\\",
+        "projectPath": "F:\\GrandCircus\\C#\\MovieEFLab\\MovieEFLab\\MovieEFLab\\MovieEFLab.csproj",
+        "packagesPath": "C:\\Users\\Wael\\.nuget\\packages\\",
+        "outputPath": "F:\\GrandCircus\\C#\\MovieEFLab\\MovieEFLab\\MovieEFLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\waelh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Wael\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
