@@ -7,7 +7,8 @@
 --Id INT IDENTITY (1,1),
 --Title NVARCHAR(50),
 --Genre NVARCHAR (20),
---Runtime FLOAT
+--Runtime FLOAT,
+--PRIMARY KEY (Id)
 --);
 
 --ALTER TABLE Movie
@@ -31,5 +32,4 @@
 --('Movie14', 'Genre3'),
 --('Movie15', 'Genre3');
 
---SELECT *
---FROM Movie
+--SELECT * FROM Movie
